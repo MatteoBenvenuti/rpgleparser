@@ -6,7 +6,7 @@
 
 	<groupId>com.github.rpgleparser</groupId>
 	<artifactId>rpgleparser</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 
 	<name>rpgleparser</name>
 	<description>
@@ -44,7 +44,7 @@
 		<dependency>
 			<groupId>org.antlr</groupId>
 			<artifactId>antlr4</artifactId>
-			<version>4.6</version>
+			<version>4.7.2</version>
 		</dependency>
 		<dependency>
 			<groupId>junit</groupId>
@@ -65,8 +65,8 @@
 		</dependency>
 		<dependency>
 			<groupId>org.slf4j</groupId>
-			<artifactId>slf4j-log4j12</artifactId>
-			<version>2.0.15</version>
+			<artifactId>slf4j-simple</artifactId>
+			<version>2.0.16</version>
 		</dependency>
 		<dependency>
 			<groupId>net.sf.jt400</groupId>
